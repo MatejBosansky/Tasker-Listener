@@ -1,11 +1,11 @@
 
 # Tasker Listener
-Simple Python project to emulate Windows media keys with Samsung S-Pen air gestures using Tasker. Anyway Tasks can be triggered via any Taskers event. Except emulating of keystrokes, Python programming language offers you to perform infinite amount of actions.
+Simple Python project to emulate media key press with Samsung S-Pen air gestures using Tasker. Anyway Tasks can be triggered via any Taskers event. Except emulating of keystrokes, Python programming language offers you to perform infinite amount of actions.
 ### Demonstration
 https://youtu.be/-IYYRy5awp0
 
 ## How it works
-Tasker on event trigger sends HTTP Post request to defined IP address and Port on internal network. On your Windows/Mac/Linux... machine must run Python script to listen HTTP requests and process them. Except Tasker, no additional application or service is needed.
+Tasker on event trigger sends HTTP Post request to defined IP address and Port on internal network. On your Windows/Mac/Linux... machine must run Python script to listen HTTP requests and process them. Except Tasker and Python script, no additional application or service is needed.
 
 
 ## Important notes
